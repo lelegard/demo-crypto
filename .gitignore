@@ -1,0 +1,17 @@
+encrypt-image
+prime-count
+
+*.gif.rgb.*.jpg
+*.gif.rgba.*.jpg
+*~
+*.o
+*.a
+*.so
+*.tmp
+*.out
+*.log
+core
+core.*
+*.exe
+*.obj
+*.dll
